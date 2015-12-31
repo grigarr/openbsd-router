@@ -1,2 +1,3 @@
 dhcpd_flags="vmx1"
+rtadvd_flags="vmx1"
 unbound_flags=""
