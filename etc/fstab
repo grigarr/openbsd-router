@@ -1,0 +1,10 @@
+ff6a8963fff03707.b none swap sw
+ff6a8963fff03707.a / ffs rw,noatime,softdep 1 1
+ff6a8963fff03707.k /home ffs rw,nodev,nosuid,noatime,softdep 1 2
+ff6a8963fff03707.d /tmp ffs rw,nodev,nosuid,noatime,softdep 1 2
+ff6a8963fff03707.f /usr ffs rw,nodev,noatime,softdep 1 2
+ff6a8963fff03707.g /usr/X11R6 ffs rw,nodev,noatime,softdep 1 2
+ff6a8963fff03707.h /usr/local ffs rw,nodev,noatime,softdep 1 2
+ff6a8963fff03707.j /usr/obj ffs rw,nodev,nosuid,noatime,softdep 1 2
+ff6a8963fff03707.i /usr/src ffs rw,nodev,nosuid,noatime,softdep 1 2
+ff6a8963fff03707.e /var ffs rw,nodev,nosuid,noatime,softdep 1 2

@@ -1,0 +1,2 @@
+/usr/local/sbin/dhcp6c vmx0
+/usr/sbin/rtadvd vmx1
